@@ -89,5 +89,6 @@ with tab2:
             st.rerun()
         else:
             st.session_state.pwd = False
-            st.error("Password non esistente")
+            if password != "":
+                st.error("Password non esistente")
             # st.rerun()
