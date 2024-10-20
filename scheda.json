@@ -1,0 +1,131 @@
+{
+    "giorni": {
+      "Lunedì": {
+        "Petto": [
+          {
+            "esercizio": "Panca Piana con Bilanciere",
+            "serie": 4,
+            "ripetizioni": "8-10",
+            "link": "https://www.youtube.com/watch?v=SCVCLChPQFY"
+          },
+          {
+            "esercizio": "Distensioni su Panca Inclinata con Manubri",
+            "serie": 3,
+            "ripetizioni": "10-12",
+            "link": "https://www.youtube.com/watch?v=oZVCBM9f8Eo"
+          },
+          {
+            "esercizio": "Croci ai Cavi (o con Manubri)",
+            "serie": 3,
+            "ripetizioni": "12-15",
+            "link": "https://www.youtube.com/watch?v=JSDpq14vCZ8"
+          }
+        ],
+        "Bicipiti": [
+          {
+            "esercizio": "Curl con Bilanciere",
+            "serie": 4,
+            "ripetizioni": "8-10",
+            "link": "https://www.youtube.com/watch?v=dDI8ClxRS04"
+          },
+          {
+            "esercizio": "Hammer Curl con Manubri Alternato",
+            "serie": 3,
+            "ripetizioni": "10-12",
+            "link": "https://www.youtube.com/watch?v=CFBZ4jN1CMI"
+          },
+          {
+            "esercizio": "Curl Concentrato",
+            "serie": 3,
+            "ripetizioni": "12-15",
+            "link": "https://www.youtube.com/watch?v=VMbDQ8PZazY"
+          }
+        ]
+      },
+      "Mercoledì": {
+        "Dorso": [
+          {
+            "esercizio": "Lat Machine al Petto",
+            "serie": 4,
+            "ripetizioni": "8-10",
+            "link": ""
+          },
+          {
+            "esercizio": "Rematore con Bilanciere",
+            "serie": 4,
+            "ripetizioni": "8-10",
+            "link": ""
+          },
+          {
+            "esercizio": "Pulley Basso (Rematore alla macchina)",
+            "serie": 3,
+            "ripetizioni": "10-12",
+            "link": ""
+          }
+        ],
+        "Tricipiti": [
+          {
+            "esercizio": "Spinte in basso alla Corda ai Cavi",
+            "serie": 4,
+            "ripetizioni": "10-12",
+            "link": ""
+          },
+          {
+            "esercizio": "Panca Piana con Presa Stretta",
+            "serie": 3,
+            "ripetizioni": "8-10",
+            "link": ""
+          },
+          {
+            "esercizio": "French Press con Bilanciere EZ",
+            "serie": 3,
+            "ripetizioni": "10-12",
+            "link": ""
+          }
+        ]
+      },
+      "Venerdì": {
+        "Spalle": [
+          {
+            "esercizio": "Military Press con Bilanciere (o Manubri)",
+            "serie": 4,
+            "ripetizioni": "8-10",
+            "link": ""
+          },
+          {
+            "esercizio": "Alzate Laterali con Manubri",
+            "serie": 3,
+            "ripetizioni": "10-12",
+            "link": ""
+          },
+          {
+            "esercizio": "Alzate Posteriori ai Cavi (o con Manubri)",
+            "serie": 3,
+            "ripetizioni": "12-15",
+            "link": ""
+          }
+        ],
+        "Gambe": [
+          {
+            "esercizio": "Squat con Bilanciere",
+            "serie": 4,
+            "ripetizioni": "8-10",
+            "link": ""
+          },
+          {
+            "esercizio": "Leg Curl (Femorali)",
+            "serie": 3,
+            "ripetizioni": "10-12",
+            "link": ""
+          },
+          {
+            "esercizio": "Calf Raise in Piedi o alla Pressa (Polpacci)",
+            "serie": 4,
+            "ripetizioni": "12-15",
+            "link": ""
+          }
+        ]
+      }
+    }
+  }
+  

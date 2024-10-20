@@ -1,0 +1,99 @@
+{
+    "dieta_settimanale": {
+      "Colazione": {
+        "opzione 1": {
+          "pasto": [
+            "Pancake Proteico (100g di farina d’avena, 30g di proteine in polvere, 1 uovo intero, 150ml di albume)",
+            "1 cucchiaio burro d’arachidi (20g) o crema di mandorle",
+            "1 bicchiere di latte scremato o latte vegetale"
+          ]
+        },
+        "opzione 2": {
+          "pasto": [
+            "80g fiocchi d’avena o cereali integrali",
+            "250g yogurt greco",
+            "20g frutta secca (noci, mandorle)",
+            "Miele (1 cucchiaino opzionale)"
+          ]
+        }
+      },
+      "Spuntino_Mattutino": {
+        "opzione 1": {
+          "pasto": [
+            "1 panino integrale (80-100g)",
+            "80g bresaola, tacchino o fesa di pollo",
+            "1 cucchiaio olio extravergine di oliva (10g)"
+          ]
+        },
+        "opzione 2": {
+          "pasto": [
+            "100g frutta secca (noci, mandorle o nocciole)",
+            "1 mela o arancia"
+          ]
+        }
+      },
+      "Pranzo": {
+        "opzione 1": {
+          "pasto": [
+            "150g pasta integrale o riso integrale",
+            "150g carne magra (pollo, tacchino, manzo magro)",
+            "Verdure a volontà con 1 cucchiaio olio extravergine di oliva (10g)"
+          ]
+        },
+        "opzione 2": {
+          "pasto": [
+            "100g riso o couscous integrale",
+            "200g pesce (merluzzo, tonno, orata)",
+            "Verdure a volontà con olio extravergine"
+          ]
+        }
+      },
+      "Spuntino_Pomeridiano_Pre_Allenamento": {
+        "opzione 1": {
+          "pasto": [
+            "2 gallette di riso o mais",
+            "30g proteine in polvere",
+            "1 cucchiaino crema di mandorle o burro d’arachidi"
+          ]
+        },
+        "opzione 2": {
+          "pasto": [
+            "80g pane integrale",
+            "50g prosciutto crudo magro o fesa di tacchino",
+            "1 yogurt greco senza zuccheri aggiunti"
+          ]
+        }
+      },
+      "Cena": {
+        "opzione 1": {
+          "pasto": [
+            "200g carne magra (petto di pollo, tacchino o manzo magro)",
+            "200g patate dolci o normali",
+            "Verdure a volontà con olio extravergine di oliva (10g)"
+          ]
+        },
+        "opzione 2": {
+          "pasto": [
+            "150g legumi (lenticchie, ceci, fagioli) o soia",
+            "100g quinoa o farro",
+            "Verdure a volontà con olio extravergine d'oliva"
+          ]
+        }
+      },
+      "Spuntino_Serale": {
+        "opzione 1": {
+          "pasto": [
+            "200g fiocchi di latte",
+            "1 cucchiaino di miele o frutta secca (10-15g di mandorle)"
+          ]
+        },
+        "opzione 2": {
+          "pasto": [
+            "1 yogurt greco",
+            "20g noci o mandorle"
+          ]
+        }
+      }
+    }
+  }
+  
