@@ -1,6 +1,26 @@
 {
     "giorni": {
       "Lunedì": {
+        "Addome":[
+            {
+                "esercizio": "Plank",
+                "serie": 3,
+                "ripetizioni": "30 o 60 secondi",
+                "link": "https://www.youtube.com/watch?v=pvIjsG5Svck"
+            },
+            {
+                "esercizio": "Crunch su Panca Inclinata (Addome Alto)",
+                "serie": 3,
+                "ripetizioni": "10-15",
+                "link": "https://www.youtube.com/watch?v=2m9LKDVHTec"
+            },
+            {
+                "esercizio": "Leg Raise (Addome Basso)",
+                "serie": 3,
+                "ripetizioni": "30-60 sec",
+                "link": "https://www.youtube.com/watch?v=Cwuxy8eo7iw"
+            }
+        ],
         "Petto": [
           {
             "esercizio": "Panca Piana con Bilanciere",
@@ -43,24 +63,44 @@
         ]
       },
       "Mercoledì": {
+        "Addome":[
+            {
+                "esercizio": "Plank",
+                "serie": 3,
+                "ripetizioni": "30 o 60 secondi",
+                "link": "https://www.youtube.com/watch?v=pvIjsG5Svck"
+            },
+            {
+                "esercizio": "Crunch su Panca Inclinata (Addome Alto)",
+                "serie": 3,
+                "ripetizioni": "10-15",
+                "link": "https://www.youtube.com/watch?v=2m9LKDVHTec"
+            },
+            {
+                "esercizio": "Leg Raise (Addome Basso)",
+                "serie": 3,
+                "ripetizioni": "30-60 sec",
+                "link": "https://www.youtube.com/watch?v=Cwuxy8eo7iw"
+            }
+        ],
         "Dorso": [
           {
             "esercizio": "Lat Machine al Petto",
             "serie": 4,
             "ripetizioni": "8-10",
-            "link": ""
+            "link": "https://www.youtube.com/watch?v=NAIEnMjN-6w"
           },
           {
             "esercizio": "Rematore con Bilanciere",
             "serie": 4,
             "ripetizioni": "8-10",
-            "link": ""
+            "link": "https://www.youtube.com/watch?v=9Gf-Ourup_k"
           },
           {
             "esercizio": "Pulley Basso (Rematore alla macchina)",
             "serie": 3,
             "ripetizioni": "10-12",
-            "link": ""
+            "link": "https://www.youtube.com/watch?v=UCXxvVItLoM"
           }
         ],
         "Tricipiti": [
@@ -68,61 +108,87 @@
             "esercizio": "Spinte in basso alla Corda ai Cavi",
             "serie": 4,
             "ripetizioni": "10-12",
-            "link": ""
+            "link": "https://www.youtube.com/watch?v=-xa-6cQaZKY"
           },
           {
             "esercizio": "Panca Piana con Presa Stretta",
             "serie": 3,
             "ripetizioni": "8-10",
-            "link": ""
+            "link": "https://www.youtube.com/watch?v=DzA2xZhDGeo"
           },
           {
             "esercizio": "French Press con Bilanciere EZ",
             "serie": 3,
             "ripetizioni": "10-12",
-            "link": ""
+            "link": "https://www.youtube.com/watch?v=zQQQ444P588"
           }
         ]
       },
       "Venerdì": {
+        "Addome":[
+            {
+                "esercizio": "Plank",
+                "serie": 3,
+                "ripetizioni": "30 o 60 secondi",
+                "link": "https://www.youtube.com/watch?v=pvIjsG5Svck"
+            },
+            {
+                "esercizio": "Crunch su Panca Inclinata (Addome Alto)",
+                "serie": 3,
+                "ripetizioni": "10-15",
+                "link": "https://www.youtube.com/watch?v=2m9LKDVHTec"
+            },
+            {
+                "esercizio": "Leg Raise (Addome Basso)",
+                "serie": 3,
+                "ripetizioni": "30-60 sec",
+                "link": "https://www.youtube.com/watch?v=Cwuxy8eo7iw"
+            }
+        ],
         "Spalle": [
           {
-            "esercizio": "Military Press con Bilanciere (o Manubri)",
+            "esercizio": "Military Press con Manubri",
             "serie": 4,
             "ripetizioni": "8-10",
-            "link": ""
+            "link": "https://www.youtube.com/watch?v=HzIiNhHhhtA"
           },
           {
             "esercizio": "Alzate Laterali con Manubri",
             "serie": 3,
             "ripetizioni": "10-12",
-            "link": ""
+            "link": "https://www.youtube.com/watch?v=XPPfnSEATJA"
           },
           {
-            "esercizio": "Alzate Posteriori ai Cavi (o con Manubri)",
+            "esercizio": "Alzate Posteriori con Manubri",
             "serie": 3,
             "ripetizioni": "12-15",
-            "link": ""
+            "link": "https://www.youtube.com/watch?v=3gJXpfwg_go"
           }
         ],
         "Gambe": [
           {
-            "esercizio": "Squat con Bilanciere",
+            "esercizio": "Hack Squat",
             "serie": 4,
             "ripetizioni": "8-10",
-            "link": ""
+            "link": "https://www.youtube.com/watch?v=rYgNArpwE7E"
+          },
+          {
+            "esercizio": "Leg Press Orizzontale",
+            "serie": 4,
+            "ripetizioni": "8-10",
+            "link": "https://www.youtube.com/watch?v=nN8UHyCe4k4"
           },
           {
             "esercizio": "Leg Curl (Femorali)",
             "serie": 3,
             "ripetizioni": "10-12",
-            "link": ""
+            "link": "https://www.youtube.com/watch?v=Orxowest56U"
           },
           {
             "esercizio": "Calf Raise in Piedi o alla Pressa (Polpacci)",
             "serie": 4,
             "ripetizioni": "12-15",
-            "link": ""
+            "link": "https://www.youtube.com/watch?v=g_E7_q1z2bo"
           }
         ]
       }

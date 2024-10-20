@@ -1,6 +1,9 @@
 import streamlit as st
 import json
 
+if "pwd" not in st.session_state:
+    st.session_state.pwd = False
+
 # Carica i dati dal file JSON
 with open('scheda.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
@@ -23,7 +26,10 @@ def mostra_esercizi(giorno):
         st.markdown(f"## *{gruppo}*")
         for esercizio in esercizi:
             st.markdown(f"- **{esercizio['esercizio']}**")
-            markdown_esercizi = f"**{esercizio['serie']}** serie da **{esercizio['ripetizioni']}** ripetizioni"
+            if "secondi" not in esercizio['ripetizioni']:
+                markdown_esercizi = f"**{esercizio['serie']}** serie da **{esercizio['ripetizioni']}** ripetizioni"
+            else:
+                markdown_esercizi = f"**{esercizio['serie']}** ripetizioni da **{esercizio['ripetizioni']}**"
             metti_spazio(markdown_esercizi)
             if 'link' in esercizio and esercizio['link']:
                 with st.expander("Mostra tutorial"):
@@ -63,8 +69,25 @@ with tab1:
 # Tab della dieta
 with tab2:
     st.header("Dieta")
-    pasti = list(data_dieta['dieta_settimanale'].keys())
-    scelta_pasto = st.selectbox("Seleziona un pasto", pasti)
     
-    if scelta_pasto:
-        mostra_pasto(scelta_pasto)
+    if st.session_state.pwd:
+
+        if st.button("Reset Password"):
+            st.session_state.pwd = False
+            st.rerun()
+
+        pasti = list(data_dieta['dieta_settimanale'].keys())
+        scelta_pasto = st.selectbox("Seleziona un pasto", pasti)
+        
+        if scelta_pasto:
+            mostra_pasto(scelta_pasto)
+    else:
+        password = st.text_input("Inserisci la password per visualizzare la dieta", type="password")
+
+        if password == "Decoder":
+            st.session_state.pwd = True
+            st.rerun()
+        else:
+            st.session_state.pwd = False
+            st.error("Password non esistente")
+            # st.rerun()
